@@ -12,7 +12,7 @@ The application is built with a Node.js + Express.js backend and a React.js fron
 - 💾 **Redis Persistence**: Uses Upstash Redis for serverless deployment
 
 ---
-
+view live : https://pastebin-lite-tau-peach.vercel.app/
 ## Running the App Locally
 
 ### Prerequisites
